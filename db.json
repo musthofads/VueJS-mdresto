@@ -1,0 +1,197 @@
+{
+  "best-products": [
+    {
+      "id": 4,
+      "kode": "MK-04",
+      "nama": "Gurame Asam Pedas",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "gurame-asam-pedas.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "MK-05",
+      "nama": "Cumi Goreng",
+      "harga": 28000,
+      "is_ready": true,
+      "gambar": "cumi-goreng.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "MK-12",
+      "nama": "Kakap Bakar",
+      "harga": 32000,
+      "is_ready": true,
+      "gambar": "kakap-bakar.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "MK-01",
+      "nama": "Gurame Goreng",
+      "harga": 36000,
+      "is_ready": true,
+      "gambar": "gurame-goreng.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "MK-02",
+      "nama": "Gurame Bakar",
+      "harga": 38000,
+      "is_ready": true,
+      "gambar": "gurame-bakar.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "MK-03",
+      "nama": "Gurame Asam Manis",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "gurame-asam-manis.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "MK-04",
+      "nama": "Gurame Asam Pedas",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "gurame-asam-pedas.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "MK-05",
+      "nama": "Cumi Goreng",
+      "harga": 28000,
+      "is_ready": true,
+      "gambar": "cumi-goreng.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "MK-06",
+      "nama": "Cumi Asam Manis",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "cumi-asam-manis.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "MK-07",
+      "nama": "Cumi Asam Pedas",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "cumi-asam-pedas.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "MK-08",
+      "nama": "Udang Goreng",
+      "harga": 28000,
+      "is_ready": true,
+      "gambar": "udang-goreng.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "MK-09",
+      "nama": "Udang Asam Manis",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "udang-asam-manis.jpg"
+    },
+    {
+      "id": 10,
+      "kode": "MK-10",
+      "nama": "Udang Asam Pedas",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "udang-asam-pedas.jpg"
+    },
+    {
+      "id": 11,
+      "kode": "MK-11",
+      "nama": "Kakap Goreng",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "kakap-goreng.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "MK-12",
+      "nama": "Kakap Bakar",
+      "harga": 32000,
+      "is_ready": true,
+      "gambar": "kakap-bakar.jpg"
+    },
+    {
+      "id": 13,
+      "kode": "MK-13",
+      "nama": "Lele Goreng",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "lele-goreng.jpg"
+    },
+    {
+      "id": 14,
+      "kode": "MK-14",
+      "nama": "Lele Bakar",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "lele-bakar.jpg"
+    },
+    {
+      "id": 15,
+      "kode": "MK-15",
+      "nama": "Bebek Goreng",
+      "harga": 26000,
+      "is_ready": true,
+      "gambar": "bebek-goreng.jpg"
+    },
+    {
+      "id": 16,
+      "kode": "MK-16",
+      "nama": "Bebek Bakar",
+      "harga": 28000,
+      "is_ready": true,
+      "gambar": "bebek-bakar.jpg"
+    },
+    {
+      "id": 17,
+      "kode": "MK-17",
+      "nama": "Ayam Goreng",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "ayam-goreng.jpg"
+    },
+    {
+      "id": 18,
+      "kode": "MK-18",
+      "nama": "Ayam Bakar",
+      "harga": 22000,
+      "is_ready": true,
+      "gambar": "ayam-bakar.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "nama": "Musthofa",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "keterangan": "Yang satu pedas sedang",
+          "products": {
+            "id": 4,
+            "kode": "MK-04",
+            "nama": "Gurame Asam Pedas",
+            "harga": 40000,
+            "is_ready": true,
+            "gambar": "gurame-asam-pedas.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
